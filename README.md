@@ -1,2 +1,2 @@
-# Stock-management-system-project-
-Stock 
+# Stock-management
+Stock management system projects 
